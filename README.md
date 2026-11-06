@@ -1,8 +1,6 @@
-Hi!👋 My name is Zhaoshu Yu (余兆舒 in Chinese). I am currently a fourth-year undergraduate student majoring in Applied Physics at Tongji University. In the latter half of this year, I shall commence doctoral studies at Tongji University’s School of Computer Science and Technology under the supervision of Prof. Jingkuan Song.
+Hi!👋 My name is Zhaoshu Yu (余兆舒 in Chinese). I am currently a Ph.D. student at Tongji University’s School of Computer Science and Technology under the supervision of Prof. Jingkuan Song.
 
-My research interests focus on Vision-Language-Action Models, Embodied AI and Multimodal Learning.
-
-
+My research interests focus on Vision-Language-Action Models, Embodied AI and Multimodel Learning.
 
 <!--
 **YuZhaoshu/YuZhaoshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
